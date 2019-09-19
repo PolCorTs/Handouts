@@ -1,0 +1,24 @@
+<config>
+  <app>
+    <title>Game Development Mamausa</title>
+    <organization>UPC</organization>
+  </app>
+  <renderer>
+   
+    <vsync value="false"/>
+    <fullscreen value="false"/>
+    <borderless value="false"/>
+    <resizable value="true"/>
+    <fullwindow value="false"/>
+    <screen x="1024" y="768"/>
+    <scale value="1"/>
+    
+  </renderer>
+</config>
+
+
+
+
+
+
+
